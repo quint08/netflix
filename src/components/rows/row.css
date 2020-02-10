@@ -1,0 +1,11 @@
+h3 {
+    color: white;
+    margin-bottom: -75px;
+}
+.movie {
+    transition: ease-in;
+    transition-duration: .2s;
+}
+.movie:hover {
+    transform: scale(1.1);
+}
